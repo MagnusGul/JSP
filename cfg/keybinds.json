@@ -1,0 +1,9 @@
+{
+    "W": { "on_press": ["+up"], "on_release": ["-up"] },
+    "S": { "on_press": ["+down"], "on_release": ["-down"] },
+    "A": { "on_press": ["+left"], "on_release": ["-left"] },
+    "D": { "on_press": ["+right"], "on_release": ["-right"] },
+    "grave": { "on_press": ["console_toggle"] },
+    "ENTER": { "on_press": ["execute"] },
+    "BACKSPACE": { "on_press": ["clear_last_sym"] }
+}
